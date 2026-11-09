@@ -1,0 +1,7 @@
+{
+  "name": "Shinchan Run Adventure",
+  "description": "A colorful 3D endless runner featuring Shinchan navigating Kasukabe city with 3-lane dodging, jumping, sliding, Chocobi snacks, and upbeat arcade action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
